@@ -27,5 +27,6 @@
       "Description": "BMW with all original documents",
       "Price": 2000000
     }
-  ]
+  ],
+  "wishlisted_cars": []
 }
