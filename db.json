@@ -28,5 +28,15 @@
       "Price": 2000000
     }
   ],
-  "wishlisted_cars": []
+  "wishlisted_cars": [
+    {
+      "id": 3,
+      "brand": "BMW",
+      "type": "Manual",
+      "year": 2017,
+      "kms": 5000,
+      "Description": "BMW with all original documents",
+      "Price": 2000000
+    }
+  ]
 }
