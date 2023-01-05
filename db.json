@@ -17,6 +17,15 @@
       "kms": 8000,
       "Description": "Tata Nexon with all original documents",
       "Price": 800000
+    },
+    {
+      "id": 3,
+      "brand": "BMW",
+      "type": "Manual",
+      "year": 2017,
+      "kms": 5000,
+      "Description": "BMW with all original documents",
+      "Price": 2000000
     }
   ]
 }
