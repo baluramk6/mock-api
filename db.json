@@ -38,5 +38,7 @@
       "Description": "BMW with all original documents",
       "Price": 2000000
     }
-  ]
+  ],
+  "users": [],
+  "todos": []
 }
